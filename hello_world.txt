@@ -1,1 +1,2 @@
 Hello hello, test test
+TEsting the VSCODE commit message function
